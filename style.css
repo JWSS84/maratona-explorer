@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: roboto, sans-serif;
+}
+/* cores do projeto
+#2D2C2A, #995000, #ffedd5, #FED7AA
+
+*/
+body{
+  background-color:#ffedd5;
+}
+
+h2{
+  background-color: #FED7AA;
+}
+
+header{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+section {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
